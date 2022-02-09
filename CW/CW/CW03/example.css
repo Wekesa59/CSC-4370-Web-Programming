@@ -1,0 +1,35 @@
+.head{
+    text-align:center;
+}
+.main{
+    display:flex;
+    
+    display:center;
+}
+.left{
+    flex-basis:33%;
+    padding:2em;
+    margin:2em;
+    border:4px;
+    border-style:dashed;
+    border-color:red;
+}
+.right{
+    flex-basis:67%;
+    padding:2em;
+    margin: 2em;
+    border:4px;
+    border-style:dashed;
+    border-color:red;
+}
+.image{
+    float:right;
+    width:200px;
+}
+.pushinP{
+    clear:both;
+}
+.last{
+    position:fixed;
+    bottom:5px;
+}

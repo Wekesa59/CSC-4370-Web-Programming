@@ -1,0 +1,85 @@
+body{
+    background-image:url("Black\ Panther2.jpg");
+    background-size:cover;
+}
+h1{
+    font-family:"Times New Roman";
+    color: rgb(89, 0, 255);
+    text-align:center;
+}
+.pfp-img{
+    border-radius: 8px;
+    width: 75px;
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+    
+}
+p{
+    font-family:"Times New Roman";
+    color: rgb(255, 187, 0);
+}
+a:link{
+    font-family:"Times New Roman";
+    color: azure; 
+    margin-right:auto;
+    margin-left: auto;
+    display: block;
+    text-align: center; 
+    
+}
+a:hover{
+    color:blueviolet;
+    text-decoration:none;
+}
+a:visited{
+    color:rgb(248, 240, 255);
+}
+.bg1{
+    background-color:rgb(68, 68, 201);
+    
+}
+.bg2{
+    background-color:blueviolet;
+}
+table, th, td{
+    border-collapse: collapse;
+    padding:5px;
+}
+table{
+    margin: 2rem auto 2rem auto;
+}
+.job{
+    width:45%;
+    float:right;
+    color:rgb(198, 255, 196);
+}
+
+.EDU{
+    width:45%;
+    display:inline-block;
+    color:rgb(0, 255, 255)
+}
+.hobbies{
+    margin: 0rem auto 0rem auto;
+    color:aquamarine;
+}
+.albums{
+    color:rgb(131, 226, 43)
+}
+.Thanos{
+    color:blueviolet;
+    float:right;
+    top:0%;
+    border: 1px solid black;
+    width:250px;
+    font-size:0.5cm;
+
+}
+.top{
+    width:400px;
+    margin: 0rem auto;
+}
+*{
+    font-family:sans-serif;
+}
